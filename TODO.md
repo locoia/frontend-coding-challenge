@@ -29,6 +29,10 @@ The app should be accessible to all types of users specially those with disabili
 CSS preprocessor such as Sass or Less: this makes styles reusable across components without duplication.
 Use utility classes make it easier to reuse css styles and avoid writing much css code.
 
+## Any other improvements that you feel like could be added.
+
+In the development I recommend to use typescript since javascript makes problems during development for type unsafety issues. In addition, some other frameworks like pinia instead of vuex improves the modularity and ease of use in state management. Vite instead of vue-cli is much faster for building and running development server. In this project since it was created by options Api, I used options Api but in vue3 composition Api and script setup is recommended.
+
 
 
 
